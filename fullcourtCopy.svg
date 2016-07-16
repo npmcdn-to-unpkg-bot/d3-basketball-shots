@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="500"
+   version="1.1"
+   width="940"
+   viewBox="0 0 940 500"
+   preserveAspectRatio="xMinYMin"
+   style="overflow:hidden"
+   id="svg3109"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fullcourt.svg"
+   inkscape:export-filename="C:\Users\niortenzio\Solutions\sportsvu\image\fullcourt.png"
+   inkscape:export-xdpi="81.059998"
+   inkscape:export-ydpi="81.059998">
+  <defs
+     id="defs32" />
+  <rect
+     x="10"
+     y="-54.000008"
+     width="70"
+     height="40"
+     r="2"
+     rx="2"
+     ry="2"
+     title="Left Corner 3"
+     class="detail-box"
+     style="fill:#ffffff;fill-opacity:0.6;stroke:none;display:none"
+     id="rect3165" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer"
+     transform="translate(0,-64)" />
+  <g
+     id="g3915"
+     transform="matrix(1,0,0,1.002735,0,-1.3656591)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3117"
+       style="fill:none;stroke:#c6c6c6;stroke-width:4.14810991;stroke-opacity:1"
+       d="m 937.92594,2.7893352 0,494.4547148 -467.90681,0 0,-494.4547148 467.90681,0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3119"
+       style="fill:none;stroke:#c6c6c6;stroke-width:4.02953625;stroke-opacity:1"
+       d="m 937.98523,2.8963983 0,28.1593717 -139.49507,0 0,-28.1593717 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3121"
+       style="fill:none;stroke:#c6c6c6;stroke-width:4.01749039;stroke-opacity:1"
+       d="m 937.99125,468.97159 0,27.98886 -139.50711,0 0,-27.98886 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3159-9"
+       style="fill:none;stroke:#c6c6c6;stroke-width:4.14810991;stroke-opacity:1"
+       d="m 81.717768,170.3396 0,-9.95547" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3161-0"
+       style="fill:none;stroke:#c6c6c6;stroke-width:4.14810991;stroke-opacity:1"
+       d="m 111.58416,170.3396 0,-9.95547" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3163-0"
+       style="fill:none;stroke:#c6c6c6;stroke-width:4.14810991;stroke-opacity:1"
+       d="m 141.45055,170.3396 0,-9.95547" />
+  </g>
+</svg>
